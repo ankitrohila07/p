@@ -1,0 +1,11 @@
+Model:
+id -> primary key and int, 
+name -> String, 
+desc -> String, 
+brand -> String, 
+price -> int, 
+Category -> String, 
+releaseDate -> Date, 
+available -> boolean, 
+quantity -> Int, 
+Image, 
